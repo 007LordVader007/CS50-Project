@@ -1,4 +1,4 @@
-#C games
+# C games
 
 ## Description
 Implemented various (simple) games in C. 
