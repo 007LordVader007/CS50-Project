@@ -1,4 +1,3 @@
 # CS50-Project
-Every CS50 course Final Project I did
+CS50 Project
 
-The license applies to ALL folders in this repo (unless otherwise stated)
